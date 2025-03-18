@@ -1,3 +1,3 @@
-use qrcode module 
+use qrcode module /n
 pip install qrcode
 
